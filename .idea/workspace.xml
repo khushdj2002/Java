@@ -4,14 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="Java">
+      <change afterPath="$PROJECT_DIR$/DSA_Book/DSA_Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Median_of_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Remove_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/STS_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/AbstractProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Anonymous_class_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Anonymous_class_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/ArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Arr_meth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/ArrayList_Learn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/BoxedItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/CSE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Clone_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Clone_Method_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Error/MyException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Error/catch_spec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/FibonacciProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Fibonocii_with_recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/SimpleGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/TestGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/HackerRank_oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/HashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/OOps_Assignment_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Object_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Photograph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/PlayerRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/PredatoryCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Progression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Scoreboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Sellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/SiniglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/TestProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/TestSinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Interface_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Testing_obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Transportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/get_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/this_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,29 +93,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "D:/java_i/STS",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java_i/STS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MyException2">
-    <configuration name="Median_of_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetrCode.Median_of_two" />
+}</component>
+  <component name="RunManager" selected="Application.Arr_meth">
+    <configuration name="Arr_meth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhijith.Arr_meth" />
       <module name="DSA_Book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetrCode.*" />
+          <option name="PATTERN" value="abhijith.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +131,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abhijith.Error.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remove_duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetrCode.Remove_duplicate" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetrCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +164,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhijith.Generics.TestGenericClass" />
+      <module name="DSA_Book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhijith.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arr_meth" />
+        <item itemvalue="Application.TestGenericClass" />
         <item itemvalue="Application.MyException2" />
         <item itemvalue="Application.STS_Class" />
         <item itemvalue="Application.Target" />
-        <item itemvalue="Application.Remove_duplicate" />
-        <item itemvalue="Application.Median_of_two" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +196,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660967490635</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java">
+      <created>1663266632873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663266632873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,5 +216,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java" />
   </component>
 </project>

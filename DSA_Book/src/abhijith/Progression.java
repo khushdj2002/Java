@@ -1,0 +1,28 @@
+package abhijith;
+
+public class Progression {
+    protected long current;
+
+    public Progression(){
+        this(0);
+    }
+    public Progression(long current){
+        this.current=current;
+    }
+    public long nextValue(){
+        long answer = current;
+        advance();
+        return answer;
+    }
+    protected void advance(){
+        current++;
+    }
+    public void printProgression(int n){
+        System.out.print(nextValue());
+        for (int j = 1; j < n; j++) {
+            System.out.print(" "+nextValue());
+        }
+        System.out.println();
+
+    }
+}
