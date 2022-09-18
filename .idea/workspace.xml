@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/DSA_Book/DSA_Book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Median_of_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Remove_duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/STS_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/LeetrCode/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/AbstractProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Anonymous_class_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Anonymous_class_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/ArithmeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Arr_meth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/ArrayList_Learn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/BoxedItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/CSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Clone_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Clone_Method_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Error/MyException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Error/catch_spec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/FibonacciProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Fibonocii_with_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/SimpleGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Generics/TestGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/GeometricProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/HackerRank_oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/HashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/OOps_Assignment_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Object_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Photograph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/PlayerRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/PredatoryCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Progression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Scoreboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Sellable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/SiniglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/TestProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/TestSinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Test_Interface_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Testing_obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Transportable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/get_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/this_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663266632873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java">
+      <created>1663524629151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663524629151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
