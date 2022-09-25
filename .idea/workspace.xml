@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="Java" />
+    <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -37,7 +45,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/java_i/STS&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -50,79 +58,49 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Arr_meth">
-    <configuration name="Arr_meth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhijith.Arr_meth" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhijith.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.FSWD">
+    <configuration name="FSWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSWD" />
+      <module name="FSWD_Competitive" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhijith.Error.MyException2" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhijith.Error.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FibnociApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibnociApplication" />
+      <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="STS_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetrCode.STS_Class" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetrCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ForestPhoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForestPhoto" />
+      <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetrCode.Target" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetrCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhijith.Generics.TestGenericClass" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhijith.Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arr_meth" />
-        <item itemvalue="Application.TestGenericClass" />
-        <item itemvalue="Application.MyException2" />
-        <item itemvalue="Application.STS_Class" />
-        <item itemvalue="Application.Target" />
+        <item itemvalue="Application.FSWD" />
+        <item itemvalue="Application.FibnociApplication" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ForestPhoto" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663524629151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java">
+      <created>1663524789397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663524789397</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java">
+      <created>1663524874382</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663524874382</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1663571974261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663571974262</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +164,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Linkdin_java_oops/ForestPhoto.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

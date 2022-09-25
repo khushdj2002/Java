@@ -1,3 +1,5 @@
+package abhijith;
+
 public class Duplicate extends Hello {
     public static void main(String[] args) {
         Duplicate dp = new Duplicate();

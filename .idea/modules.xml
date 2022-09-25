@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA_Book/DSA_Book.iml" filepath="$PROJECT_DIR$/DSA_Book/DSA_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Book/FSWD_Competitive/FSWD_Competitive.iml" filepath="$PROJECT_DIR$/DSA_Book/FSWD_Competitive/FSWD_Competitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkdinJavaCollectionsFramework/LinkdinJavaCollectionsFramework.iml" filepath="$PROJECT_DIR$/LinkdinJavaCollectionsFramework/LinkdinJavaCollectionsFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkdin_java_oops.iml" filepath="$PROJECT_DIR$/Linkdin_java_oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/STS.iml" filepath="$PROJECT_DIR$/STS.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>

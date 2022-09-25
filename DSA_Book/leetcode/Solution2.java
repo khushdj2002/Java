@@ -1,19 +1,21 @@
 import java.util.Arrays;
 
 class Solution2 {
-        public int maxArea(int[] height) {
-            int a=0;
-            int [] arr = new int[height.length* height.length];
-            for(int i=0;i<height.length;i++){
-                for(int j=height.length-1;j>i;j--){
-                    if(height[i]>height[j])
-                        arr[a]=height[j]*height[j];
-                    else
-                        arr[a]=height[i]*height[i];
-                    a++;
-                }
+
+    public int maxArea(int[] height) {
+        int max=0;
+        int i=0;
+        int j=height.length-1;
+        while(i<j){
+            if((height[i]>=height[j])&&(height[j]*(j-i)>max)){
+                max=height[j]*(j-i);
+                j--;
             }
-            Arrays.sort(arr);
-            return arr[arr.length-1];
+            if((height[j]>height[i])&&(height[i]*(j-i)>max)){
+                max=height[i]*j-i;
+                i++;
+            }
         }
+        return max;
+    }
 }
