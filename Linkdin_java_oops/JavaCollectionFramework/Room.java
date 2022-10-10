@@ -12,8 +12,8 @@ public class Room {
         this.capacity=capacity;
         this.rate=rate;
     }
-    public String getName(){
-        return name;
+    public double getRate(){
+        return rate;
     }
 
 }

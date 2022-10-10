@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/src/abhijith/Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/JavaCollectionFramework/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/JavaCollectionFramework/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/JavaCollectionFramework/main_Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/JavaCollectionFramework/main_Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/LinearSearch_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/LinearSearch_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/main_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/main_BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,30 +59,16 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.FSWD">
-    <configuration name="FSWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSWD" />
-      <module name="FSWD_Competitive" />
+  <component name="RunManager" selected="Application.GreedyGreatestNumber">
+    <configuration name="GreedyGreatestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyGreatestNumber" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibnociApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibnociApplication" />
-      <module name="Linkdin_java_oops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForestPhoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForestPhoto" />
-      <module name="Linkdin_java_oops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
       <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,13 +81,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhijith.Generics.TestGenericClass" />
+      <module name="DSA_Book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhijith.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main_BinarySearch" />
+      <module name="Linkdin_java_oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FSWD" />
-        <item itemvalue="Application.FibnociApplication" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.ForestPhoto" />
+        <item itemvalue="Application.GreedyGreatestNumber" />
+        <item itemvalue="Application.TestGenericClass" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main_BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663571974262</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1664141142791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664141142791</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

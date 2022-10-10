@@ -20,6 +20,8 @@ public class Main {
 //        Sum3_Closet s3 =new Sum3_Closet();
 //        int [] nums={1,1,1,0};
 //        System.out.println(s3.threeSumClosest(nums,-100));
-          MergeArray m1 = new MergeArray();
+ //         MergeArray m1 = new MergeArray();
+        CommonPrefix c1 = new CommonPrefix();
+        System.out.println(c1.isAnagram("anagram","hello"));
     }
 }
