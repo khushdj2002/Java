@@ -21,7 +21,26 @@ public class Main {
 //        int [] nums={1,1,1,0};
 //        System.out.println(s3.threeSumClosest(nums,-100));
  //         MergeArray m1 = new MergeArray();
-        CommonPrefix c1 = new CommonPrefix();
-        System.out.println(c1.isAnagram("anagram","hello"));
+//        CommonPrefix c1 = new CommonPrefix();
+//        System.out.println(c1.isAnagram("anagram","hello"));
+//          LongestPalindromicSubstring l1 = new LongestPalindromicSubstring();
+//        System.out.println(l1.longestPalindrome("babad"));
+
+//        break_verify b1 = new break_verify();
+//        System.out.println(b1.breaking(5));
+
+//        String2Integer s1 = new String2Integer();
+//        System.out.println(s1.myAtoi("256"));
+
+//        LengthOfLastWord l1 = new LengthOfLastWord();
+//        System.out.println(l1.lengthOfLastWord("a"));
+
+//        String2Integer s1 = new String2Integer();
+//        System.out.println(s1.myAtoi("25"));
+
+
+
+
+
     }
 }
