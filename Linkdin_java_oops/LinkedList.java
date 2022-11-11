@@ -10,6 +10,8 @@ public class LinkedList {
 
 
 
+
+
     public void DeleteFromHead(){
         this.head=this.head.getNextNode();
     }

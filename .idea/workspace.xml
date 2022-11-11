@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="849c0eaf-3895-43bf-a501-1ee596305312" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Book/leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linkdin_java_oops/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linkdin_java_oops/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,55 +54,49 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListDemo">
-    <configuration name="BoothsAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetrCode.BoothsAlgorithm" />
-      <module name="DSA_Book" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetrCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListDemo" />
+  <component name="RunManager" selected="Application.ListStack">
+    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayStack" />
       <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multitask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multitask" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSortAlgorithm" />
+    <configuration name="Fibnocii_recuyrsion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibnocii_recuyrsion" />
       <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchUsage" />
-      <module name="leetcode" />
+    <configuration name="ListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListStack" />
+      <module name="Linkdin_java_oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_Already_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge_Already_Sorted" />
+      <module name="Linkdin_java_oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TowerOfHanoi" />
+      <module name="Linkdin_java_oops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListDemo" />
-        <item itemvalue="Application.BoothsAlgorithm" />
-        <item itemvalue="Application.SelectionSortAlgorithm" />
-        <item itemvalue="Application.Multitask" />
-        <item itemvalue="Application.SwitchUsage" />
+        <item itemvalue="Application.ListStack" />
+        <item itemvalue="Application.ArrayStack" />
+        <item itemvalue="Application.Merge_Already_Sorted" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.Fibnocii_recuyrsion" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665425402096</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1667587627929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667587627929</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,5 +194,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/STS$DoubleLinkedListDemo.ic" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1667883701113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
